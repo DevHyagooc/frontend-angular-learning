@@ -34,8 +34,11 @@ Nenhum.
 - [x] Valores primitivos e referências de objetos
 - [x] Reatribuição versus mutação
 - [x] Comportamento de `let` e `const` com objetos
+- [x] Coerção de tipos básica
+- [x] Comparação com `==` e `===`
+- [x] Conversão explícita básica
 
-## Dificuldades identificadas
+## Dificuldades identificadas no diagnóstico inicial
 
 ### JavaScript
 
