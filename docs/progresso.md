@@ -37,6 +37,9 @@ Nenhum.
 - [x] Coerção de tipos básica
 - [x] Comparação com `==` e `===`
 - [x] Conversão explícita básica
+- [x] Funções, parâmetros e argumentos
+- [x] Retorno de funções
+- [x] Fluxo de execução com return
 
 ## Dificuldades identificadas no diagnóstico inicial
 
