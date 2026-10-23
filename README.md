@@ -2,7 +2,7 @@
 
 Repositório dedicado à minha jornada de aprendizado em **desenvolvimento Frontend com foco em Angular**.
 
-Atualmente atuo como **QA Pleno** e estou expandindo meus conhecimentos para desenvolvimento Frontend, com o objetivo de construir uma base sólida e alcançar autonomia suficiente para atuar futuramente como **Desenvolvedor Frontend Angular Júnior**.
+Atualmente atuo como **QA Pleno** e estou expandindo meus conhecimentos para desenvolvimento Frontend, com o objetivo de construir uma base sólida e alcançar autonomia suficiente.
 
 Este repositório será utilizado para registrar exercícios, desafios, projetos e minha evolução durante os estudos.
 
