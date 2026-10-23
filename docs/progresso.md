@@ -40,6 +40,10 @@ Nenhum.
 - [x] Funções, parâmetros e argumentos
 - [x] Retorno de funções
 - [x] Fluxo de execução com return
+- [x] Arrow functions
+- [x] Retorno implícito em arrow functions
+- [x] Escopo de função e de bloco
+- [x] Acesso a variáveis de escopos externos
 
 ## Dificuldades identificadas no diagnóstico inicial
 
