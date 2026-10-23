@@ -29,6 +29,12 @@ Nenhum.
 
 - [ ] Módulo 1 — JavaScript Fundamental
 
+## Conteúdos trabalhados
+
+- [x] Valores primitivos e referências de objetos
+- [x] Reatribuição versus mutação
+- [x] Comportamento de `let` e `const` com objetos
+
 ## Dificuldades identificadas
 
 ### JavaScript
