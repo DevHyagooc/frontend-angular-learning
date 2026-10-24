@@ -55,6 +55,10 @@ Nenhum.
 - [x] `find`
 - [x] Escolha consciente de métodos de arrays
 - [x] Combinação de métodos de transformação de dados
+- [x] `reduce` e acumulação de dados
+- [x] Valor inicial e comportamento do acumulador
+- [x] Totalização de arrays de objetos
+- [x] Combinação de condições com `reduce`
 
 ## Dificuldades identificadas no diagnóstico inicial
 
