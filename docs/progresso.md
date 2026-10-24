@@ -44,6 +44,11 @@ Nenhum.
 - [x] Retorno implícito em arrow functions
 - [x] Escopo de função e de bloco
 - [x] Acesso a variáveis de escopos externos
+- [x] Arrays, índices e `length`
+- [x] Iteração com `for`
+- [x] Iteração com `for...of`
+- [x] Diferença básica entre `for...of` e `for...in`
+- [x] Acumulação de valores durante iteração
 
 ## Dificuldades identificadas no diagnóstico inicial
 
