@@ -49,6 +49,12 @@ Nenhum.
 - [x] Iteração com `for...of`
 - [x] Diferença básica entre `for...of` e `for...in`
 - [x] Acumulação de valores durante iteração
+- [x] Callbacks
+- [x] `filter`
+- [x] `map`
+- [x] `find`
+- [x] Escolha consciente de métodos de arrays
+- [x] Combinação de métodos de transformação de dados
 
 ## Dificuldades identificadas no diagnóstico inicial
 
