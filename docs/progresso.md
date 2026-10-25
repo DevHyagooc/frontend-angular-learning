@@ -59,6 +59,19 @@ Nenhum.
 - [x] Valor inicial e comportamento do acumulador
 - [x] Totalização de arrays de objetos
 - [x] Combinação de condições com `reduce`
+- [x] Destructuring de objetos
+- [x] Destructuring de arrays
+- [x] Renomeação de propriedades com destructuring
+- [x] Valores padrão com destructuring
+- [x] Destructuring em parâmetros de funções
+- [x] Combinação de destructuring com métodos de arrays
+- [x] Spread em objetos
+- [x] Spread em arrays
+- [x] Sobrescrita de propriedades com spread
+- [x] Rest em destructuring de objetos
+- [x] Rest em parâmetros de funções
+- [x] Diferença entre spread e rest
+- [x] Cópia rasa e referências em objetos aninhados
 
 ## Dificuldades identificadas no diagnóstico inicial
 
