@@ -72,6 +72,12 @@ Nenhum.
 - [x] Rest em parâmetros de funções
 - [x] Diferença entre spread e rest
 - [x] Cópia rasa e referências em objetos aninhados
+- [x] Módulos JavaScript
+- [x] Named exports com `export`
+- [x] Importação com `import`
+- [x] Importação seletiva de recursos
+- [x] Funções internas e interface pública de módulos
+- [x] Separação básica de responsabilidades entre arquivos
 
 ## Dificuldades identificadas no diagnóstico inicial
 
