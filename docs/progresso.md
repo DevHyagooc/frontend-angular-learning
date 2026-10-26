@@ -78,6 +78,13 @@ Nenhum.
 - [x] Importação seletiva de recursos
 - [x] Funções internas e interface pública de módulos
 - [x] Separação básica de responsabilidades entre arquivos
+- [x] Tratamento de erros com `throw`
+- [x] Criação de erros com `Error`
+- [x] Uso de `try/catch`
+- [x] Uso de `finally`
+- [x] Diferença entre lançar e tratar erros
+- [x] Fluxo de execução após exceções
+- [x] Separação de responsabilidades no tratamento de erros
 
 ## Dificuldades identificadas no diagnóstico inicial
 
