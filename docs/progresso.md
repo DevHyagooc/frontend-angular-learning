@@ -85,6 +85,14 @@ Nenhum.
 - [x] Diferença entre lançar e tratar erros
 - [x] Fluxo de execução após exceções
 - [x] Separação de responsabilidades no tratamento de erros
+- [x] Conceito e estados de Promises
+- [x] Estados `pending`, `fulfilled` e `rejected`
+- [x] Uso de `resolve` e `reject`
+- [x] Consumo de Promises com `.then()` e `.catch()`
+- [x] Uso de `.finally()` em Promises
+- [x] Fluxo assíncrono básico
+- [x] Promises com `setTimeout`
+- [x] Tratamento de sucesso e falha em operações assíncronas
 
 ## Dificuldades identificadas no diagnóstico inicial
 
