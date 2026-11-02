@@ -93,6 +93,14 @@ Nenhum.
 - [x] Fluxo assíncrono básico
 - [x] Promises com `setTimeout`
 - [x] Tratamento de sucesso e falha em operações assíncronas
+- [x] Funções assíncronas com `async`
+- [x] Retorno de Promises por funções `async`
+- [x] Consumo de Promises com `await`
+- [x] Fluxo de execução com `await`
+- [x] Tratamento de rejeições com `try/catch` e `await`
+- [x] Uso de `finally` em fluxos assíncronos
+- [x] Sequência de operações assíncronas dependentes
+- [x] Integração entre Promises e `async/await`
 
 ## Dificuldades identificadas no diagnóstico inicial
 
