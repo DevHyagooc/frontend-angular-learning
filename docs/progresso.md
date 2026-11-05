@@ -6,7 +6,7 @@ Roadmap definido.
 
 ## Módulo atual
 
-Módulo 1 — JavaScript Fundamental
+Módulo 2 — Fundamentos da Web: HTML, CSS e DOM
 
 ## Diagnóstico inicial
 
@@ -23,11 +23,11 @@ Módulo 1 — JavaScript Fundamental
 
 ## Módulos concluídos
 
-Nenhum.
+- [x] Módulo 1 — JavaScript Fundamental
 
 ## Em andamento
 
-- [ ] Módulo 1 — JavaScript Fundamental
+- [ ] Módulo 2 — Fundamentos da Web: HTML, CSS e DOM
 
 ## Conteúdos trabalhados
 
@@ -39,7 +39,7 @@ Nenhum.
 - [x] Conversão explícita básica
 - [x] Funções, parâmetros e argumentos
 - [x] Retorno de funções
-- [x] Fluxo de execução com return
+- [x] Fluxo de execução com `return`
 - [x] Arrow functions
 - [x] Retorno implícito em arrow functions
 - [x] Escopo de função e de bloco
@@ -112,6 +112,45 @@ Nenhum.
 - escolha de métodos de arrays;
 - coerção de tipos.
 
+## Avaliação final — Módulo 1
+
+### Pontos fortes
+
+- Boa compreensão de funções, parâmetros e retornos.
+- Boa utilização de métodos de arrays para transformação de dados.
+- Capacidade de combinar diferentes conceitos em exercícios práticos.
+- Boa compreensão de módulos JavaScript e separação de responsabilidades.
+- Boa evolução no tratamento de erros.
+- Boa compreensão de Promises e `async/await`.
+- Capacidade de investigar erros e corrigir implementações após análise.
+
+### Pontos para reforço futuro
+
+- [ ] Atualização imutável de objetos dentro de arrays utilizando `map` e spread
+- [ ] Coerção de tipos e diferenças entre `==` e `===`
+- [ ] Explicação conceitual de callbacks
+- [ ] Diferença entre mutação de propriedades e reatribuição de variáveis
+- [ ] Diferença entre `return` e `throw`
+- [ ] Debugging de funções assíncronas e acesso a resultados de Promises
+
+### Resultado
+
+🟢 Módulo 1 — JavaScript Fundamental concluído para progressão.
+
+O módulo foi concluído após exercícios, desafios, revisões de código e avaliação integradora.
+
+Os fundamentos principais foram trabalhados e demonstrados em implementações práticas.
+
+Alguns conceitos ainda exigem reforço, principalmente atualização imutável de objetos dentro de arrays, coerção de tipos e precisão nas explicações conceituais.
+
+Esses pontos não impedem o avanço e serão revisitados durante os próximos módulos e projetos.
+
 ## Observações
 
-A jornada começa pelo JavaScript Fundamental antes de avançar para HTML/CSS, TypeScript e Angular.
+O Módulo 1 — JavaScript Fundamental foi concluído.
+
+A jornada avança para o Módulo 2 — Fundamentos da Web: HTML, CSS e DOM.
+
+Os conteúdos de JavaScript continuarão sendo praticados e revisados ao longo do desenvolvimento de interfaces, exercícios e projetos.
+
+O objetivo permanece desenvolver autonomia para compreender tarefas, planejar soluções, implementar funcionalidades, investigar problemas e justificar decisões técnicas, utilizando IA como apoio ao aprendizado.
