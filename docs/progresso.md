@@ -2,7 +2,11 @@
 
 ## Status atual
 
-Roadmap definido.
+Roadmap definido e aprovado.
+
+Módulo 1 — JavaScript Fundamental concluído e aprovado para progressão.
+
+**Domínio atual de JavaScript:** 🟡 Compreende, mas precisa praticar.
 
 ## Módulo atual
 
@@ -20,6 +24,14 @@ Módulo 2 — Fundamentos da Web: HTML, CSS e DOM
 | HTTP / APIs REST | 🟢 Bom domínio para nível Júnior |
 | Git | 🟡 Compreende, mas precisa praticar |
 | Debugging / investigação | 🟢 Bom domínio para nível Júnior |
+
+## Evolução após o Módulo 1
+
+| Área | Diagnóstico inicial | Situação atual |
+|---|---|---|
+| JavaScript | 🔴 Precisa revisar | 🟡 Compreende, mas precisa praticar |
+
+O Módulo 1 foi aprovado para progressão. Houve evolução nos fundamentos de JavaScript, mas alguns conhecimentos ainda precisam ser consolidados durante os próximos módulos.
 
 ## Módulos concluídos
 
@@ -135,7 +147,9 @@ Módulo 2 — Fundamentos da Web: HTML, CSS e DOM
 
 ### Resultado
 
-🟢 Módulo 1 — JavaScript Fundamental concluído para progressão.
+🟢 **Módulo 1 — JavaScript Fundamental concluído para progressão.**
+
+🟡 **Domínio atual de JavaScript — Compreende, mas precisa praticar.**
 
 O módulo foi concluído após exercícios, desafios, revisões de código e avaliação integradora.
 
