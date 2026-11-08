@@ -1,0 +1,47 @@
+<!-- 
+1. Qual é a diferença entre <ul> e <ol>? R: ul é uma lista não ordenada, onde a ordem não importa, já o ol é uma lista ordenada, onde a ordem importa
+2. Por que é melhor representar um conjunto de cursos utilizando elementos de lista em vez de vários <div>? R: Por questões de semântica e organização de código, além de que um conjunto de cursos é uma listagem.
+3. Um menu dentro de <nav> precisa obrigatoriamente utilizar <ul>? Justifique. R: Não, apesar de ser frequentemente utilizado, não significa que precisa obrigatoriamente ser uma lista, depende da organização
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Central de Treinamentos</title>
+</head>
+
+<body>
+   <header>
+      <h1>Central de Treinamentos</h1>
+   </header>
+   <nav>
+      <a href="#Início">Início</a>
+      <a href="#Cursos">Cursos</a>
+      <a href="#Certificados">Certificados</a>
+   </nav>
+   <main>
+      <section>
+         <h2>Cursos</h2>
+         <ul>
+            <li>HTML e CSS</li>
+            <li>Javascript</li>
+            <li>Typescript</li>
+         </ul>
+      </section>
+
+      <section>
+         <h2>Como concluir o treinamento</h2>
+         <ol>
+            <li>Escolher o curso desejado</li>
+            <li>Concluir todas as etapas do curso</li>
+            <li>Baixar o seu certificado</li>
+         </ol>
+      </section>
+   </main>
+
+</body>
+
+</html>

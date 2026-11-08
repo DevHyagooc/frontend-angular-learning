@@ -43,76 +43,67 @@ O Módulo 1 foi aprovado para progressão. Houve evolução nos fundamentos de J
 
 ## Conteúdos trabalhados
 
-- [x] Valores primitivos e referências de objetos
-- [x] Reatribuição versus mutação
-- [x] Comportamento de `let` e `const` com objetos
-- [x] Coerção de tipos básica
-- [x] Comparação com `==` e `===`
-- [x] Conversão explícita básica
-- [x] Funções, parâmetros e argumentos
-- [x] Retorno de funções
-- [x] Fluxo de execução com `return`
-- [x] Arrow functions
-- [x] Retorno implícito em arrow functions
+### Módulo 1 — JavaScript Fundamental
+
+**Valores, tipos e referências**
+- [x] Valores primitivos, referências e mutabilidade
+- [x] Reatribuição, `let` e `const`
+- [x] Coerção, conversão de tipos e comparações
+
+**Funções e escopo**
+- [x] Funções, parâmetros e retornos
+- [x] Arrow functions e retorno implícito
 - [x] Escopo de função e de bloco
-- [x] Acesso a variáveis de escopos externos
-- [x] Arrays, índices e `length`
-- [x] Iteração com `for`
-- [x] Iteração com `for...of`
-- [x] Diferença básica entre `for...of` e `for...in`
-- [x] Acumulação de valores durante iteração
+
+**Arrays e transformação de dados**
+- [x] Arrays e iteração (`for`, `for...of`, `for...in`)
 - [x] Callbacks
-- [x] `filter`
-- [x] `map`
-- [x] `find`
-- [x] Escolha consciente de métodos de arrays
-- [x] Combinação de métodos de transformação de dados
-- [x] `reduce` e acumulação de dados
-- [x] Valor inicial e comportamento do acumulador
-- [x] Totalização de arrays de objetos
-- [x] Combinação de condições com `reduce`
-- [x] Destructuring de objetos
-- [x] Destructuring de arrays
-- [x] Renomeação de propriedades com destructuring
-- [x] Valores padrão com destructuring
-- [x] Destructuring em parâmetros de funções
-- [x] Combinação de destructuring com métodos de arrays
-- [x] Spread em objetos
-- [x] Spread em arrays
-- [x] Sobrescrita de propriedades com spread
-- [x] Rest em destructuring de objetos
-- [x] Rest em parâmetros de funções
-- [x] Diferença entre spread e rest
-- [x] Cópia rasa e referências em objetos aninhados
-- [x] Módulos JavaScript
-- [x] Named exports com `export`
-- [x] Importação com `import`
-- [x] Importação seletiva de recursos
-- [x] Funções internas e interface pública de módulos
-- [x] Separação básica de responsabilidades entre arquivos
-- [x] Tratamento de erros com `throw`
-- [x] Criação de erros com `Error`
-- [x] Uso de `try/catch`
-- [x] Uso de `finally`
-- [x] Diferença entre lançar e tratar erros
-- [x] Fluxo de execução após exceções
-- [x] Separação de responsabilidades no tratamento de erros
-- [x] Conceito e estados de Promises
-- [x] Estados `pending`, `fulfilled` e `rejected`
-- [x] Uso de `resolve` e `reject`
-- [x] Consumo de Promises com `.then()` e `.catch()`
-- [x] Uso de `.finally()` em Promises
-- [x] Fluxo assíncrono básico
-- [x] Promises com `setTimeout`
-- [x] Tratamento de sucesso e falha em operações assíncronas
-- [x] Funções assíncronas com `async`
-- [x] Retorno de Promises por funções `async`
-- [x] Consumo de Promises com `await`
-- [x] Fluxo de execução com `await`
-- [x] Tratamento de rejeições com `try/catch` e `await`
-- [x] Uso de `finally` em fluxos assíncronos
-- [x] Sequência de operações assíncronas dependentes
-- [x] Integração entre Promises e `async/await`
+- [x] `map`, `filter`, `find` e `reduce`
+- [x] Combinação de métodos e totalização de dados
+
+**Manipulação de objetos**
+- [x] Destructuring de objetos e arrays
+- [x] Spread e rest
+- [x] Cópia rasa e referências aninhadas
+
+**Módulos JavaScript**
+- [x] `import` e `export`
+- [x] Organização de módulos e responsabilidades
+
+**Tratamento de erros**
+- [x] `throw` e `Error`
+- [x] `try`, `catch` e `finally`
+- [x] Fluxo de exceções
+
+**Programação assíncrona**
+- [x] Promises e seus estados
+- [x] `resolve`, `reject`, `.then()` e `.catch()`
+- [x] Funções `async` e `await`
+- [x] Tratamento de erros assíncronos
+- [x] Operações assíncronas dependentes
+
+---
+
+### Módulo 2 — Fundamentos da Web: HTML, CSS e DOM
+
+**HTML — Estrutura e semântica**
+- [x] Estrutura de documentos HTML
+- [x] Elementos `html`, `head` e `body`
+- [x] Idioma, charset e viewport
+- [x] Elementos semânticos: `header`, `nav`, `main`, `section` e `article`
+- [x] Hierarquia de títulos
+- [x] Links e navegação
+- [x] Listas ordenadas e não ordenadas
+
+**HTML — Formulários**
+- [ ] A iniciar
+
+**CSS**
+- [ ] A iniciar
+
+**DOM e eventos**
+- [ ] A iniciar
+
 
 ## Dificuldades identificadas no diagnóstico inicial
 
