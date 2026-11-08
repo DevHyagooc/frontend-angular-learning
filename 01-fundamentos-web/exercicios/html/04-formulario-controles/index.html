@@ -1,0 +1,60 @@
+<!--
+1. Qual é a diferença entre select e radio? R: select eu tenho várias options que são colapsadas bom para grande volume de informações distintas, o radio são escolhes geralmente relaciodas como Prioridade onde posso marcar apenas uma opção
+2. Por que os radios de prioridade precisam compartilhar o mesmo name? R: para que não seja possível marcar duas opções para o mesmo objetivo
+3. Qual é a função do atributo value em um checkbox? R: enviar a resposta ou valor relacionado para o atributo
+4. O que acontece no envio HTML padrão quando um checkbox está desmarcado? R: ele não é enviado
+5. Por que utilizar fieldset e legend pode melhorar a acessibilidade? R: pois agrupa as opções de escolha e deixam mais organizados podendo nomear aquela agrupação e entender o objetivo
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Solicitação de Suporte</title>
+</head>
+
+<body>
+   <header>
+      <h1>Formulário de Solicitação de Suporte</h1>
+   </header>
+
+   <main>
+      <form>
+         <label for="nome">Nome completo:</label>
+         <input type="text" id="nome" name="nome" required>
+
+         <label for="email">E-mail:</label>
+         <input type="email" id="email" name="email" required>
+
+         <label for="descricao">Descrição do problema:</label>
+         <textarea name="descricao" id="descricao" required></textarea>
+
+         <label for="categoria">Categoria:</label>
+         <select name="categoria" id="categoria">
+            <option value="sistema">Sistema</option>
+            <option value="rede">Rede</option>
+            <option value="hardware">Hardware</option>
+         </select>
+
+         <fieldset>
+            <legend>Prioridade</legend>
+            <input type="radio" id="baixa" name="prioridade" value="baixa">
+            <label for="baixa">Baixa</label>
+            <input type="radio" id="media" name="prioridade" value="media">
+            <label for="media">Média</label>
+            <input type="radio" id="alta" name="prioridade" value="alta">
+            <label for="alta">Alta</label>
+         </fieldset>
+         
+         <label for="notificacoes">Receber Notificações?</label>
+         <input type="checkbox" name="notificacoes" id="notificacoes" value="sim">
+
+         <button type="submit">Enviar</button>
+      </form>
+   </main>
+
+</body>
+
+</html>

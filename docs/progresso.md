@@ -96,6 +96,23 @@ O Módulo 1 foi aprovado para progressão. Houve evolução nos fundamentos de J
 - [x] Listas ordenadas e não ordenadas
 
 **HTML — Formulários**
+- [x] Estrutura de formulários com `form`
+- [x] Inputs e tipos básicos (`text`, `email`)
+- [x] Associação entre `label`, `for` e `id`
+- [x] Diferença entre `id`, `name` e `value`
+- [x] Botões e tipos (`submit`, `button`)
+- [x] Campos obrigatórios com `required`
+- [x] Validação nativa básica do navegador
+- [x] Comportamento padrão de `action` e `method`
+- [x] Campos de múltiplas linhas com `textarea`
+- [x] Seleção de opções com `select` e `option`
+- [x] Inputs `radio` e agrupamento por `name`
+- [x] Inputs `checkbox` e comportamento no envio
+- [x] Agrupamento semântico com `fieldset` e `legend`
+- [x] Acessibilidade básica em formulários
+- [x] Revisão e correção de formulários HTML
+
+**HTML — Validações adicionais**
 - [ ] A iniciar
 
 **CSS**
